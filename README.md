@@ -1,4 +1,5 @@
 # 概要
+ タイピングゲーム(https://typing.twi1.me/game/18144) を自動化
  
 
 
